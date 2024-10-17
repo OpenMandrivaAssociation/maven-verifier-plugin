@@ -5,7 +5,7 @@ Summary:        Maven Verifier Plugin
 
 Group:          Development/Java
 License:        ASL 2.0
-URL:            http://maven.apache.org/plugins/maven-verifier-plugin/
+URL:            https://maven.apache.org/plugins/maven-verifier-plugin/
 #svn export http://svn.apache.org/repos/asf/maven/plugins/tags/maven-verifier-plugin-1.0/
 #tar -zcf maven-verifier-plugin-1.0.tar.gz maven-verifier-plugin-1.0/
 Source0:        %{name}-%{version}.tar.gz
